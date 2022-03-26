@@ -9,8 +9,8 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 /**
- *
- * @author Ravkeerat SIngh
+ *@author Umit Kilinic 101232721
+ * @author Ravkeerat SIngh 101344680
  */
 public class SpellCheck {
 
