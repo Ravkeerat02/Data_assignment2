@@ -6,8 +6,8 @@
 package assignment2;
 
 /**
- *
- * @author Ravkeerat SIngh
+ * @author Umit Kilinic  101232721
+ * @author Ravkeerat SIngh 101344680
  */
 import assignment2.Dictionary.Bucket.Node;
 import java.io.BufferedReader;
